@@ -2,14 +2,14 @@
 
 🧑 - I'm an IT student based in Dijon, France 🇫🇷
 
-🔨 - I'm currently coding a minimalistic terminal-based contact manager in C++ 💻, but that doesn't prevent me from working on other things at the same time.
-Multi-tasking isn't just for computers, right? 😁
+🔨 - I'm currently coding a minimalistic terminal-based contact manager in C++ 💻, but that doesn't prevent me from working on other things at the same time. Multi-tasking isn't just for computers, right? 😁
 
-💾 - 
+💾 - C, C++ and Python are the programming languages that I'm fluent with. More languages are coming 😉
+And fun fact, a few years ago, I experienced with Excel VBA, which is how I was initiated to coding. However, I don't remember any of it, but I might start again in the future.
 
-🔒 - I'm also really interested in cybersecurity, you can expect me to publish projects about that in the future, when my programing skills will have improved.
+🔒 - I'm also really interested in cybersecurity, you can expect me to publish projects about that in the future when my programming skills will have improved.
 
-🗣️ - Not only keen on programming languages, I'm also keen on linguistics. Languages are a passion of mine. I'll make sure to provide translations for my programs in the languages I'm familiar with (French, English, German, Spanish, and maybe soon Esperanto)
+🗣️ - Not only on programming languages, I'm also keen on languages between humans. I'll make sure to provide translations for my programs in the languages that I'm familiar with (French, English, German, Spanish, and maybe soon Esperanto)
 
 <!--
 **prankster42069/prankster42069** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
