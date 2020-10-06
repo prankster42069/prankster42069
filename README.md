@@ -5,7 +5,7 @@
 🔨 - I'm currently coding a minimalistic terminal-based contact manager in C++ 💻, but that doesn't prevent me from working on other things at the same time. Multi-tasking isn't just for computers, right? 😁
 
 💾 - C, C++ and Python are the programming languages that I'm fluent with. More languages are coming 😉
-And fun fact, a few years ago, I experienced with Excel VBA, which is how I was initiated to coding. However, I don't remember any of it, but I might start again in the future.
+And fun fact, a few years ago, I experienced with VBA Excel, which is how I was initiated to coding. I will publish things in VBA Excel, as I think it's a fun and easy way to get into programming.
 
 🔒 - I'm also really interested in cybersecurity, you can expect me to publish projects about that in the future when my programming skills will have improved.
 
